@@ -21,8 +21,12 @@ Tell us what starts the task, which tools are involved, how often it happens, an
 
 [Choose your first automation](https://automationsforbusiness.com/guides/choosing-your-first-automation) · [How we work](https://automationsforbusiness.com/how-it-works)
 
-Working remotely from Chattogram, Bangladesh, with businesses worldwide.
+An online business serving clients worldwide.
 
 **Business enquiries:** [contact@automationsforbusiness.com](mailto:contact@automationsforbusiness.com)
 
+**WhatsApp:** [+8801577638799](https://wa.me/8801577638799)
+
 [LinkedIn](https://www.linkedin.com/in/automationsforbusiness/) · [YouTube](https://www.youtube.com/@AutomationsForBusiness) · [Instagram](https://www.instagram.com/automationsforbusiness/) · [Facebook](https://www.facebook.com/automationsforbusiness) · [TikTok](https://www.tiktok.com/@automationsforbusiness)
+
+[X](https://x.com/automatebusines) · [WhatsApp](https://wa.me/8801577638799)
