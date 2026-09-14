@@ -32,3 +32,10 @@ An online business serving clients worldwide.
 [X](https://x.com/automatebusines) · [WhatsApp](https://wa.me/8801577638799)
 
 [Telegram](https://t.me/automationsforbusiness)
+
+
+## Free planning worksheet
+
+[Download the first automation brief](https://automationsforbusiness.com/resources/first-automation-brief.txt) — describe one repeated task, its inputs, tools, review steps and expected result. Includes a completed document-workflow example and five pilot test cases. No signup required.
+
+[Read the guide and worked example](https://automationsforbusiness.com/guides/choosing-your-first-automation#brief). Use sample data and keep credentials and private customer records out of an initial brief.
