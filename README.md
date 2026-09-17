@@ -6,6 +6,10 @@ We help teams connect the tools they already use and simplify repeatable work. E
 
 [Explore our services](https://automationsforbusiness.com/services) · [Discuss your workflow](https://automationsforbusiness.com/contact)
 
+## Free workflow automation readiness kit
+
+Use the [free readiness kit](https://github.com/automationsforbusiness/workflow-automation-readiness-kit) to map one repeated task, compare automation approaches, define human approval, estimate value, and track completed runs and exceptions. It includes three tested, credential-free n8n examples that use synthetic data rather than customer records.
+
 ## What we help with
 
 - [Workflow automation](https://automationsforbusiness.com/services/workflow-automation): move information between apps and organize handoffs.
@@ -32,7 +36,6 @@ An online business serving clients worldwide.
 [X](https://x.com/automatebusines) · [WhatsApp](https://wa.me/8801577638799)
 
 [Telegram](https://t.me/automationsforbusiness)
-
 
 ## Free planning worksheet
 
